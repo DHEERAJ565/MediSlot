@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MediSlot — Doctor Appointment & Clinic Queue Management System
 
 MediSlot is a full-stack, enterprise-grade Doctor Appointment and Real-Time Clinic Queue Management System designed as a third-year Computer Science & Engineering (CSE) semester capstone project.
@@ -334,3 +335,6 @@ MediSlot is directly designed and implemented around the university Computer Sci
 ## 👨‍💻 Project Developed For
 **MediSlot — Doctor Appointment Management System**  
 Third-Year Computer Science & Engineering (CSE) Semester Project Demonstration.
+=======
+# MediSlot
+>>>>>>> f6e239248e9462f0deb368db071403514ac702be
