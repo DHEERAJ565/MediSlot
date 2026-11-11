@@ -1,0 +1,15 @@
+{
+  "name": "medislot-nextjs",
+  "version": "2.0.0",
+  "private": true,
+  "description": "MediSlot — Next.js frontend with Express and MongoDB backend",
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "client": "npm --prefix client run dev",
+    "server": "npm --prefix server run dev",
+    "build": "npm --prefix client run build",
+    "start:client": "npm --prefix client run start",
+    "test": "npm --prefix server test",
+    "seed": "npm --prefix server run seed"
+  }
+}
